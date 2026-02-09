@@ -12,13 +12,11 @@ This repository is a comprehensive collection of my Object-Oriented Programming 
 
 ---
 
-## 📁 Repository Map
-
 ### 🚀 Featured Projects
 * **DeliveryBot:** A basic deliveryBot Project.
 
 ### 🧪 Logic Workouts
-This section contains "Logics & Drills"—experimental code where I focused on tightening my understanding of complex OOP patterns and algorithm implementation within Java classes.
+This section contains "logic_Workouts"—experimental code where I focused on tightening my understanding of complex OOP patterns and algorithm implementation within Java classes.
 
 ---
 

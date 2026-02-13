@@ -14,6 +14,8 @@ This repository is a comprehensive collection of my Object-Oriented Programming 
 
 ### 🚀 Featured Projects
 * **DeliveryBot:** A basic deliveryBot Project.
+* **SIMS:** A simple inventory management system which tracks and manages different stuff.
+* **SMS:** A student management system which which deals with some basics.
 
 ### 🧪 Logic Workouts
 This section contains "logic_Workouts"—experimental code where I focused on tightening my understanding of complex OOP patterns and algorithm implementation within Java classes.

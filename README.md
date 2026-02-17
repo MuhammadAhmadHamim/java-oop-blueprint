@@ -18,6 +18,7 @@ This repository is a comprehensive collection of my Object-Oriented Programming 
 * **SMS:** A student management system which which deals with some basics.
 * **VMTS:** A basic blueprint of a Vehicle management and tracking system.
 * **SEMS:** A student exam management system to assign and juggle through exams.
+* **UMS:** A University management system to add and register courses.
 
 ### 🧪 Logic Workouts
 This section contains "logic_Workouts"—experimental code where I focused on tightening my understanding of complex OOP patterns and algorithm implementation within Java classes.

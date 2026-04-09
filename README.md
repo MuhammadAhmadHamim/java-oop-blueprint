@@ -31,21 +31,21 @@ Java was the language. **OOP was the discipline.** Everything here — from the 
 
 ## ◈ The Four Pillars — Mastered
 ```
-┌──────────────────────────────────────────────────────────────────
-│                                                                  
-│   🔒  ENCAPSULATION      Private data. Public contracts.          
-│       Secure, modular design from the inside out.                
-│                                                                  
-│   🧬  INHERITANCE       Build once. Extend everywhere.         
-│       Scalable class hierarchies that don't repeat themselves.   
-│                                                                  
-│   🎭  POLYMORPHISM       One interface. Many forms.               
-│       Runtime flexibility baked into the architecture.           
-│                                                                  
-│   🌫️  ABSTRACTION        Hide complexity. Expose clarity.         
-│       Design what matters, bury what doesn't.                    
-│                                                                  
-└──────────────────────────────────────────────────────────────────
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   |
+│   🔒  ENCAPSULATION      Private data. Public contracts.          |
+│       Secure, modular design from the inside out.                 |
+│                                                                   |
+│   🧬  INHERITANCE       Build once.Extend everywhere.            |
+│       Scalable class hierarchies that don't repeat themselves.    | 
+│                                                                   |
+│   🎭  POLYMORPHISM       One interface.Many forms.               |
+│       Runtime flexibility baked into the architecture.            |
+│                                                                   |
+│   🌫️  ABSTRACTION        Hide complexity.Expose clarity.         |
+│       Design what matters, bury what doesn't.                     |
+│                                                                   |
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -53,18 +53,19 @@ Java was the language. **OOP was the discipline.** Everything here — from the 
 ## ◈ Vault Structure
 ```
 java-oop-blueprint/
-│       ├── DeliveryBot/
-│       ├── SIMS/
-│       ├── SMS/
-│       ├── VMTS/
-│       ├── SEMS/
-│       ├── UMS/
-│       └── LabFinal/
-│
-|       ├── 01_logic_Workouts/
-|       ├── 02_logic_Workouts/
-|       ├── 03_logic_Workouts/
-|       └── [OOP pattern experiments & algorithm studies]
+|
+├── DeliveryBot/
+├── SIMS/
+├── SMS/
+├── VMTS/
+├── SEMS/
+├── UMS/
+└── LabFinal/
+|
+├── 01_logic_Workouts/
+├── 02_logic_Workouts/
+├── 03_logic_Workouts/
+└── [OOP pattern experiments & algorithm studies]
 
 ```
 

@@ -164,7 +164,7 @@ The `logic_Workouts` is where OOP patterns were broken down and rebuilt — deli
 ## ◈ How to Run Any Project
 ```bash
 git clone https://github.com/MuhammadAhmadHamim/java-oop-blueprint.git
-cd java-oop-blueprint/Projects/UMS
+cd UMS
 
 javac *.java
 java Main
